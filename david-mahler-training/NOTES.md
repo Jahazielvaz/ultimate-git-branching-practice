@@ -3,3 +3,6 @@
 - Getting out of the git log scrollable less program:
   * q : This is how you quit the scrollable bash
   * h : Help
+
+- Looking at the master branching graph:
+  * git log --all --decorate --online --graph
